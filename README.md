@@ -1,5 +1,6 @@
 # Network-Security-EDegree
 This is the answers to the Nettwork Security questions on the Edegree Ethical Hacking Cybersecurity in Eduonix.<br><br>
+A pdf file containing the components as stated below is cloned to this project and can be downloaded as well.<br><br>
 <b>CYBERSECURITY E-DEGREE</b><br><br>
 <b>NETWORK SECURITY ASSIGNMENT</b><br><br>
 <b>PART ONE</b><br>
