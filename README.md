@@ -1,9 +1,9 @@
 # Network-Security-EDegree
-This is the answers to the Nettwork Security questions on the Edegree Ethical Hacking Cybersecurity in Eduonix.<br>
+This is the answers to the Nettwork Security questions on the Edegree Ethical Hacking Cybersecurity in Eduonix.<br><br>
 <b>CYBERSECURITY E-DEGREE</b><br><br>
 <b>NETWORK SECURITY ASSIGNMENT</b><br><br>
 <b>PART ONE</b><br>
-<b>1) Considering what you have learned through the course, how would you describe the process of User Authentication on a website by having three different factors of authentication?</b><br>
+<b>1) Considering what you have learned through the course, how would you describe the process of User Authentication on a website by having three different factors of authentication?</b><br><br>
 Websites use Client and Server technology. For a website that has some form of login for the user to be authorized (process of giving permission or access rights or privileges to the user) before they can be allowed to access their resource on the page, they need to be authenticated.
 The process of authentication involves:<br>
 a) The user needs to input their username and password. This process can only be known by the user and as such, it is one of the three methods of authentication known as <b>Something you Know – (Knowledge Factors)</b>.<br><br>
